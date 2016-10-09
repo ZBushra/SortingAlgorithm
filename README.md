@@ -1,3 +1,4 @@
 # SortingAlgorithm
 
-Insertion Sort: An implementation of basic insertion sort in java. 
+Insertion Sort: An implementation of basic insertion sort in java.
+Quicksort: An implementation of qs in java
